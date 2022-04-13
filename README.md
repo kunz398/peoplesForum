@@ -1,5 +1,6 @@
 
 **Peoples Forum**
+
 Peoples Forum is a platform developed for the Pacific to voice their opinion & share info about topics of importance, challenges & opportunities and jointly agree and contribute to the discussion. The Peoples Forum has various unique features, some of which are: Scraping Bot to retrieve latest updates on the platform  Dashboard 
 -Anti-profanity bot to blur out sensitive content 
 -Discussions with Up
